@@ -1,0 +1,33 @@
+leftnav:
+- identifier: 9734d7e1-6de1-41e8-fb01-63fbe8f82081
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: b346c3a6-bacc-892a-f73e-a8003114f9a5
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights
+  weight: 20
+- identifier: 0a86e6bc-efd9-2a3c-11af-b5901e42b16d
+  name: Readings
+  pageRef: /pages/readings
+  weight: 30
+- identifier: 7356e643-b19a-a07e-c0b6-78b70d413ded
+  name: Listening and Scores
+  pageRef: /pages/listening-and-scores
+  weight: 40
+- identifier: ed8cb250-cb80-feb4-8ed5-f03a232e7082
+  name: Lecture Notes
+  pageRef: /pages/lecture-notes
+  weight: 50
+- identifier: ad92a40c-5a84-193a-fec7-c760158ffa1f
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 60
+- identifier: dbd8736e-0fd3-266c-9def-785aec968ee6
+  name: Harpsichord Demonstration
+  pageRef: /pages/harpsichord-demonstration
+  weight: 70
+- identifier: 9f70e8ee-41fe-0ffd-3612-9c8b77ccdc00
+  name: Study Materials
+  pageRef: /pages/study-materials
+  weight: 80

@@ -1,0 +1,47 @@
+{
+  "term": "Fall",
+  "year": "2013",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Fine Arts",
+      "Music",
+      "Music History"
+    ]
+  ],
+  "legacy_uid": "c427de2d-36cc-02d0-c0c6-0e887ab0f9f9",
+  "instructors": {
+    "content": [
+      "c20bc540-62dc-a600-b061-045e7dde40e9"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "661cefcb-9aa4-ee1e-90d7-bc30962ca046",
+    "website": "21m-235-monteverdi-to-mozart-1600-1800-fall-2013"
+  },
+  "course_title": "Monteverdi to Mozart: 1600-1800",
+  "course_description": "This course surveys seven Baroque and Classical genres: opera, oratorio, cantata, sonata, concerto, quartet, symphony, and includes work by composers Bach, Handel, Haydn, Monteverdi, Mozart, Purcell, Sch\u00fctz and Vivaldi. Course work is based on live performances as well as listening and reading assignments.\n",
+  "department_numbers": [
+    "21M"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21M.235",
+  "course_image_thumbnail": {
+    "content": "46a64228-4400-38fc-4185-e87dea1e62da",
+    "website": "21m-235-monteverdi-to-mozart-1600-1800-fall-2013"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Demonstration Videos",
+    "Written Assignments",
+    "Activity Assignments",
+    "Instructor Insights"
+  ],
+  "site_uid": "069b617f-e7a4-4e4e-9491-4be9d9e4d1c3",
+  "site_short_id": "21m.235-fall-2013",
+  "site_url_path": "courses/21m-235-monteverdi-to-mozart-1600-1800-fall-2013",
+  "title": "Course Metadata"
+}
